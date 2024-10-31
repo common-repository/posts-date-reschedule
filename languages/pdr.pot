@@ -1,0 +1,101 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-20 12:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+#: posts-date-reschedule.php:48 posts-date-reschedule.php:48
+#: inc/settings-page.php:2
+msgid "Posts Date Reschedule"
+msgstr ""
+
+#: posts-date-reschedule.php:76
+msgid "Please choose date & time"
+msgstr ""
+
+#: posts-date-reschedule.php:103
+msgid "Please choose days"
+msgstr ""
+
+#: posts-date-reschedule.php:124
+msgid "Updated the posts successfully"
+msgstr ""
+
+#: posts-date-reschedule.php:131
+msgid "Please choose posts"
+msgstr ""
+
+#: inc/settings-page.php:12
+msgid "Same date for all"
+msgstr ""
+
+#: inc/settings-page.php:13
+msgid "Current date plus selected days"
+msgstr ""
+
+#: inc/settings-page.php:14
+msgid "Current date minus selected days"
+msgstr ""
+
+#: inc/settings-page.php:15
+msgid "Random dates"
+msgstr ""
+
+#: inc/settings-page.php:21
+msgid "Date & time for selected posts"
+msgstr ""
+
+#: inc/settings-page.php:30
+msgid "Plus days for selected posts"
+msgstr ""
+
+#: inc/settings-page.php:33 inc/settings-page.php:43
+msgid "Post date"
+msgstr ""
+
+#: inc/settings-page.php:35 inc/settings-page.php:45
+msgid "days"
+msgstr ""
+
+#: inc/settings-page.php:40
+msgid "Minus days for selected posts"
+msgstr ""
+
+#: inc/settings-page.php:50
+msgid "Select posts"
+msgstr ""
+
+#: inc/settings-page.php:79
+msgid "GO!"
+msgstr ""
+
+#: inc/settings-page.php:82
+msgid "Developed by:"
+msgstr ""
+
+#. Description of the plugin
+msgid "Basic extension with which you can set bulk, new dates for your posts."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://skostadinov.eu/posts-date-reschedule/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Stoyan Kostadinov"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://skostadinov.eu"
+msgstr ""

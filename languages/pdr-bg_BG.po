@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Posts Date Reschedule\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-20 12:41+0000\n"
+"PO-Revision-Date: 2017-10-20 12:44+0000\n"
+"Last-Translator: skostadinov <hello@skostadinov.eu>\n"
+"Language-Team: Bulgarian\n"
+"Language: bg-BG\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: inc/settings-page.php:82
+msgid "Developed by:"
+msgstr "Създадено от:"
+
+#. Name of the plugin
+#: posts-date-reschedule.php:48 posts-date-reschedule.php:48
+#: inc/settings-page.php:2
+msgid "Posts Date Reschedule"
+msgstr "Posts Date Reschedule"
+
+#: posts-date-reschedule.php:76
+msgid "Please choose date & time"
+msgstr "Моля изберете дата и час"
+
+#: posts-date-reschedule.php:103
+msgid "Please choose days"
+msgstr "Моля изберете дни"
+
+#: posts-date-reschedule.php:124
+msgid "Updated the posts successfully"
+msgstr "Обновихме публикациите успешно"
+
+#: posts-date-reschedule.php:131
+msgid "Please choose posts"
+msgstr "Моля изберете публикации"
+
+#: inc/settings-page.php:12
+msgid "Same date for all"
+msgstr "Една и съща дата за всички"
+
+#: inc/settings-page.php:13
+msgid "Current date plus selected days"
+msgstr "Сегашната дата плюс избраните дни"
+
+#: inc/settings-page.php:14
+msgid "Current date minus selected days"
+msgstr "Сегашната дата минус избраните дни"
+
+#: inc/settings-page.php:15
+msgid "Random dates"
+msgstr "Произволни дати"
+
+#: inc/settings-page.php:21
+msgid "Date & time for selected posts"
+msgstr "Дата и час за израбните публикации"
+
+#: inc/settings-page.php:30
+msgid "Plus days for selected posts"
+msgstr "Добави дни към избраните публикации"
+
+#: inc/settings-page.php:33 inc/settings-page.php:43
+msgid "Post date"
+msgstr "Дата на публикация"
+
+#: inc/settings-page.php:35 inc/settings-page.php:45
+msgid "days"
+msgstr "дни"
+
+#: inc/settings-page.php:40
+msgid "Minus days for selected posts"
+msgstr "Извади дни от избраните публикации"
+
+#: inc/settings-page.php:50
+msgid "Select posts"
+msgstr "Избрани публикации"
+
+#: inc/settings-page.php:79
+msgid "GO!"
+msgstr "Давай!"
+
+#. Description of the plugin
+msgid "Basic extension with which you can set bulk, new dates for your posts."
+msgstr ""
+"Просто разширение с което можете да задавате групово нови дати на вашите "
+"публикации."
+
+#. URI of the plugin
+msgid "https://skostadinov.eu/posts-date-reschedule/"
+msgstr "https://skostadinov.eu/posts-date-reschedule/"
+
+#. Author of the plugin
+msgid "Stoyan Kostadinov"
+msgstr "Стоян Костадинов"
+
+#. Author URI of the plugin
+msgid "http://skostadinov.eu"
+msgstr "http://skostadinov.eu"
